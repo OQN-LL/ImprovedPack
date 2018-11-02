@@ -1,0 +1,15 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "blocks/wood_old",
+        "top": "blocks/wood_old",
+        "side": "blocks/wood_old"
+    },
+    "display": {
+	"gui" : {
+	    "rotetion" : [0,0,0],
+	    "translation" : [0,0,0],
+	    "scale" : [1,1,1]
+	}
+    }
+}

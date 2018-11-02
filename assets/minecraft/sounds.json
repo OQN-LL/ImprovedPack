@@ -1,0 +1,52 @@
+{
+   "entity.minecart.inside" : {
+      "category" : "player",
+      "replace" : true,
+      "sounds" : [
+         {
+            "name" : "minecart/inside",
+            "volume" : 0.2
+         }
+      ]
+   },
+   "entity.lightning.thunder" : {
+      "category" : "ambient",
+      "replace" : true,
+      "sounds" : [
+         {
+            "name" : "ambient/weather/thunder1",
+            "volume" : 0.1
+         },
+         {
+            "name" : "ambient/weather/thunder2",
+            "volume" : 0.1
+         },
+         {
+            "name" : "ambient/weather/thunder3",
+            "volume" : 0.1
+         }
+      ]
+   },
+   "entity.lightning.impact" : {
+      "category" : "ambient",
+      "replace" : true,
+      "sounds" : [
+         {
+            "name" : "random/explode1",
+            "volume" : 0.05
+         },
+         {
+            "name" : "random/explode2",
+            "volume" : 0.05
+         },
+         {
+            "name" : "random/explode3",
+            "volume" : 0.05
+         },
+         {
+            "name" : "random/explode4",
+            "volume" : 0.1
+         }
+      ]
+   }
+}
